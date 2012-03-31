@@ -32,7 +32,8 @@ navigate to Projects -> eagle -> ProtoStick.
 CREDITS
 -------
 The ProtoStick was designed by:
-  Jonathan Oxer jon@freetronics.com--
+  Jonathan Oxer  jon@freetronics.com
+  Marc Alexander marc@freetronics.com
 
 
 DISTRIBUTION
